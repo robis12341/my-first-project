@@ -1,0 +1,49 @@
+{
+
+    "Skoleni":[
+
+    {
+        "vards": "Rainers",
+        "Uzvards": "Grinbergs",
+        "Klase": "11.A",
+        "Prieksmets": ["Matemātika", "Programmēsana", "sports"],
+        
+        "Parbaudes darbi":{
+
+            "Matemātika":["2026-11-23", "2026-12-04", "2026-12-07", "2026-12-10"],
+            "Programmēsana":["2026-11-23", "2026-12-04", "2026-12-07", "2026-12-10"],
+            "sports":["2026-11-23", "2026-12-04", "2026-12-07", "2026-12-10"]
+
+        },
+
+        "Atzīmes":{
+
+            "Matemātika":[4, 6, 8, 8],
+            "Programmēsana":[5, 7, 5, 7],
+            "sports":[10, 10, 10]
+
+        }
+    },
+
+    
+    {
+        "vards": "Audris",
+        "Uzvards": "Bogotais",
+        "Klase": "9.A",
+        "Prieksmets": ["Vēsture", "Soc,zin", "latviesu val."],
+        
+
+        "Atzīmes":{
+            "Vēsture":[4, 6, 8, 8],
+            "Soc,zin":[5, 7, 5, 7],
+            "latviesu val.":[10, 10, 10]
+
+        }
+    }
+
+    ]
+
+}
+
+
+
